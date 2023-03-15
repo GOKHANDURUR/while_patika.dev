@@ -1,0 +1,8 @@
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\bin\Debug\while_patikadev.exe.config
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\bin\Debug\while_patikadev.exe
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\bin\Debug\while_patikadev.pdb
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\obj\Debug\while_patikadev.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\obj\Debug\while_patikadev.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\obj\Debug\while_patikadev.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\obj\Debug\while_patikadev.exe
+C:\Users\gokha\Desktop\PROJLER\while_patikadev\while_patikadev\obj\Debug\while_patikadev.pdb
